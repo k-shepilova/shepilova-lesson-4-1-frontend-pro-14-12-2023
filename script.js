@@ -23,4 +23,4 @@ function getCalculation(firstNum, secondNum, rule) {
   }
 }
 
-console.log(getCalculation(2, 5, rule));
+console.log(getCalculation(firstNum, secondNum, rule));
